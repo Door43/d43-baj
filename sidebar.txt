@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[baj:home|Door43 (baj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-baj|d43-baj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-baj/archive/master.zip|d43-baj.zip]]
+
+**Recent Changes**
+{{changes>ns = baj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/baj|Ethnologue data]]
+
